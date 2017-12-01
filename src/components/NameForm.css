@@ -1,0 +1,15 @@
+.message1 {
+    text-align: center ;
+}
+.formClass {
+    text-align: center;
+    padding: 10px ;
+}
+input {
+    margin : 10px ;
+}
+.afterSubmit
+{
+    text-align: center ;
+    display: none ;
+}
